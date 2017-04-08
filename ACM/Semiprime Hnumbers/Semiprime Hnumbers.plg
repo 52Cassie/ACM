@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Semiprime Hnumbers - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Í¯\AppData\Local\Temp\RSPC126.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Semiprime Hnumbers.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"F:\me\Êî¼ÙACM\Semiprime Hnumbers\Semi-prime H-numbers.cpp"
+]
+Creating command line "cl.exe @"C:\Users\Í¯\AppData\Local\Temp\RSPC126.tmp"" 
+<h3>Output Window</h3>
+Compiling...
+Semi-prime H-numbers.cpp
+
+
+
+<h3>Results</h3>
+Semi-prime H-numbers.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

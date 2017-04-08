@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432952700 source:f:\me\acm总结\回文词\main.cpp
+	<stdio.h>
+	<string.h>
+
